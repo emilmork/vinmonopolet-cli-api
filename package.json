@@ -1,0 +1,22 @@
+{
+  "name": "vinmonopolet-api",
+  "version": "1.0.0",
+  "description": "Api for fetching products from vinmonopolet",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vinmonopolet",
+    "beer",
+    "api",
+    "node"
+  ],
+  "author": "Emil Mork <emil.a.mork@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "elasticsearch": "^10.1.3",
+    "express": "^4.13.4"
+  }
+}
